@@ -1,0 +1,2 @@
+# Vista_Care_CovidManagement
+ This diagnostic management tool is designed to help small clinics or hospitals in these tough times of the covid pandemic by creating tables and storing staff and patient information leading to an efficient flow while working in the hospital. It comes has an added feature of a basic QandA test which acts as a preliminary test in order to separate out most likely covid cases at times of high traffic in hospitals.
